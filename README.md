@@ -7,7 +7,7 @@
      ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝      ╚═╝
 -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Mann</h1>
 <h3 align="center">Computer Science Student • MERN Stack Developer • GraphQL Enthusiast</h3>
 
 <p align="center">
@@ -63,13 +63,13 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann-lohchab&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mann-lohchab&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -77,7 +77,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mann-lohchab&theme=onedark&no-frame=true&column=7" alt="Trophies" />
 </div>
 
 ---
