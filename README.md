@@ -41,11 +41,18 @@
 </p>
 
 ### 🎨 UI & Styling  
+### 🎨 UI & Styling  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+  <!-- Tailwind (from SimpleIcons) -->
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwind" width="40" height="40"/>
+  
+  <!-- Bootstrap (Devicon) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
+  
+  <!-- Material UI (SimpleIcons) -->
+  <img src="https://cdn.simpleicons.org/mui/007FFF" alt="materialui" width="40" height="40"/>
 </p>
+
 
 ---
 
@@ -65,10 +72,10 @@
 ## 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" /></a>
+  <a href="mailto:10324210286@stu.srmuniversity.ac.in"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" /></a>
-  <a href="https://yourportfolio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="40" height="40" /></a>
+  <a href="https://x.com/daylight216203"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" /></a>
+  <a href="https://mann.works"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="40" height="40" /></a>
 </p>
 
 ---
