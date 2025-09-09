@@ -12,7 +12,7 @@
 <h3 align="center">Computer Science Student • MERN Stack Developer • GraphQL Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username?tab=repositories">
+  <a href="https://github.com/Mann-lohchab?tab=repositories">
     <img alt="Total Repos" src="https://img.shields.io/github/repos-stats/total?color=blue&logo=github&style=flat-square" />
   </a>
   <a href="https://github.com/your-username?tab=followers">
@@ -81,11 +81,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mann-lohchab&theme=onedark&no-frame=true&column=7" alt="Trophies" />
-</div>
 
 ---
 
