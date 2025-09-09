@@ -1,10 +1,11 @@
 <!--
-     ██████╗ ███████╗███╗   ██╗████████╗██╗   ██╗
-    ██╔════╝ ██╔════╝████╗  ██║╚══██╔══╝╚██╗ ██╔╝
-    ██║  ███╗█████╗  ██╔██╗ ██║   ██║    ╚████╔╝
-    ██║   ██║██╔══╝  ██║╚██╗██║   ██║     ╚██╔╝
-    ╚██████╔╝███████╗██║ ╚████║   ██║      ██║
-     ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝      ╚═╝
+███╗   ███╗ █████╗ ███╗   ██╗███╗   ██╗
+████╗ ████║██╔══██╗████╗  ██║████╗  ██║
+██╔████╔██║███████║██╔██╗ ██║██╔██╗ ██║
+██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚██╗██║
+██║ ╚═╝ ██║██║  ██║██║ ╚████║██║ ╚████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝
+
 -->
 
 <h1 align="center">Hi 👋, I'm Mann</h1>
@@ -24,13 +25,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 💻 I’m currently studying **Computer Science** and building real-world web apps with the **MERN stack**.
-- 🌱 I’m passionate about **React**, **Node.js**, **GraphQL APIs**, and writing efficient **C programs** or **Bash scripts**.
-- 🎯 I love turning ideas into scalable, user-friendly applications — from database design to pixel-perfect UIs.
-- 🤝 Open to **internships**, **collaborations**, and **open-source contributions**.
-- 💬 Ask me about: MERN, Apollo GraphQL, JWT Auth, Linux CLI, or how to debug a segfault in C 😉
+💻 I’m a Computer Science student passionate about building real-world applications with the MERN stack.
+
+🌱 Skilled in React, Node.js, and GraphQL, and experienced in writing efficient C programs and useful Bash scripts.
+
+🎯 My focus is on creating scalable, user-friendly applications — from robust database design to smooth, pixel-perfect UIs.
+
+🔗 Explore more about me at mann.works
+
+🤝 Open to internships, collaborations, and open-source contributions.
+
+💬 Let’s talk about: MERN, Apollo GraphQL, JWT authentication, Linux CLI, or debugging that mysterious segfault in C 😉
 
 ---
 
@@ -62,7 +69,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mann-lohchab&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann-lohchab&layout=compact&theme=radical&hide_border=true" />
 </div>
 
