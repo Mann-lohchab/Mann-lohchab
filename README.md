@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apollo-graphql/apollo-graphql-compact.svg" alt="apollo" width="40" height="40"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.8l2TyQneol2IRzBsqNJ1KAHaHa%3Fpid%3DApi&f=1&ipt=60825d31a7aa16517e9e2e1b1ac780c8bfecf2e9e0e09341e4ddfdfa103af1e7" alt="apollo" width="40" height="40"/>
 </p>
 
 ### 🖥️ Languages & Tools  
