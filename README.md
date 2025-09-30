@@ -1,9 +1,4 @@
 <!-- Header -->
-
-<div align="center">
-  <img width="100%" src="https://i.pinimg.com/736x/c8/31/47/c83147559a7bb3c6600f8c4f32787e1d.jpg" alt="Header Image"/>
-</div>
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
 </div>
@@ -34,7 +29,7 @@
 
 ### 🎯 What I Do
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/82/52/498252ef8ab1153807a102361b4a70c0.gif">
+<img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/49/82/52/498252ef8ab1153807a102361b4a70c0.gif">
 
 - 🌱 **Building** scalable web applications with **React & Node.js**
 - ⚡ **Designing** GraphQL APIs with **Apollo Server**
