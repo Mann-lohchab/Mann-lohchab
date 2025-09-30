@@ -28,8 +28,10 @@
 </div>
 
 ### 🎯 What I Do
+<img align="right" alt="Coding" width="300" 
+     src="https://i.pinimg.com/originals/49/82/52/498252ef8ab1153807a102361b4a70c0.gif" 
+     style="border-radius: 20px; border: 2px solid #9D4EDD; padding: 5px;" />
 
-<img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/49/82/52/498252ef8ab1153807a102361b4a70c0.gif">
 
 - 🌱 **Building** scalable web applications with **React & Node.js**
 - ⚡ **Designing** GraphQL APIs with **Apollo Server**
