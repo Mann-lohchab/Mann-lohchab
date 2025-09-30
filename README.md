@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 Working with **React, Node.js, GraphQL & Apollo**  
 - 🛠️ Building scalable apps with **MongoDB & Express**  
@@ -36,7 +36,7 @@
 ---
 
 ## ⚒️ Tech Stack
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c2/4e/a6/c24ea69cda5b0e7ff5ac04d9fcab8aab.gif">
+
 ### 🌐 Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,graphql,apollo" />
@@ -65,10 +65,6 @@
   <img src="https://streak-stats.demolab.com?user=Mann-lohchab&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mann-lohchab&bg_color=1a1b27&color=9745f5&line=9745f5&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -79,14 +75,10 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mann-lohchab/Mann-lohchab/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mann-lohchab/Mann-lohchab/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mann-lohchab/Mann-lohchab/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mann-lohchab&bg_color=1a1b27&color=9745f5&line=9745f5&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
