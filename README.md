@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c2/4e/a6/c24ea69cda5b0e7ff5ac04d9fcab8aab.gif">
 
 - 🌱 Working with **React, Node.js, GraphQL & Apollo**  
 - 🛠️ Building scalable apps with **MongoDB & Express**  
