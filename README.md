@@ -4,8 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hey there, I'm Mann
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm Mann
 </h1>
 
 <h3 align="center">💻 CS Student | ⚡ MERN Developer | 🚀 GraphQL Enthusiast</h3>
@@ -20,10 +19,6 @@
   <img src="https://img.shields.io/badge/Focus-Full--Stack--Development-9D4EDD?style=for-the-badge" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -32,25 +27,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Node.js+Expert;GraphQL+Enthusiast;Always+Building+Cool+Stuff" alt="About Me Typing SVG" />
 </div>
 
-
-
 ### 🎯 What I Do
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/82/52/498252ef8ab1153807a102361b4a70c0.gif">
+
 - 🌱 **Building** scalable web applications with **React & Node.js**
-- ⚡ **Designing** GraphQL APIs with **Apollo Server**  
-- 🛠️ **Working** with **MongoDB & Express** backends
+- ⚡ **Designing** GraphQL APIs with **Apollo Server**
+- 🛠️ **Developing** backend systems with **Express & MongoDB**
 - 🔧 **Debugging** system-level code in **C & Bash**
-- 🚀 **Learning** cutting-edge technologies daily
+- 🚀 **Exploring** emerging technologies every day
 - 🤝 **Open** to internships, collaborations & contributions
 
 ### 📫 Reach Out
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=safari&logoColor=white)](https://mann.works)
 [![Email](https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:10324210286@stu.srmuniversity.ac.in)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,21,24&height=2&section=footer"/>
-</div>
 
 ---
 
