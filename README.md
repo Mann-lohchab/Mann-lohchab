@@ -32,32 +32,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Node.js+Expert;GraphQL+Enthusiast;Always+Building+Cool+Stuff" alt="About Me Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/82/52/498252ef8ab1153807a102361b4a70c0.gif">
 
-### 💻 Current Focus
-```
-const mann = {
-role: "CS Student & Full-Stack Developer",
-currentlyWorking: [
-"React & Node.js Applications",
-"GraphQL API Development",
-"MongoDB Database Design"
-],
-currentlyLearning: [
-"React Native Development",
-"AI Integration",
-"Hardware Acceleration"
-],
-debugging: "C & Bash segfaults (the fun part!)",
-askMeAbout: [
-"Web Development",
-"MERN Stack",
-"GraphQL"
-],
-funFact: "I debug in dark mode... obviously 🌙"
-};
-```
+
 ### 🎯 What I Do
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/82/52/498252ef8ab1153807a102361b4a70c0.gif">
 - 🌱 **Building** scalable web applications with **React & Node.js**
 - ⚡ **Designing** GraphQL APIs with **Apollo Server**  
 - 🛠️ **Working** with **MongoDB & Express** backends
