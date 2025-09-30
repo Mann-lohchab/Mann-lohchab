@@ -33,6 +33,17 @@
 - 🤝 Open to **internships, collaborations & open-source contributions**
 - 📫 Reach me: **10324210286@stu.srmuniversity.ac.in**
 
+<div align="center">
+  
+### 👨‍💻 Mann | Full-Stack Developer
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=400&lines=Building+Amazing+Web+Experiences;MERN+Stack+Expert;GraphQL+Enthusiast;Always+Coding+Something+Cool" alt="About Me Typing SVG" />
+
+</div>
+
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
 ---
 
 ## ⚒️ Tech Stack
