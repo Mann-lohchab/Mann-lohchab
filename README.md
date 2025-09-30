@@ -9,8 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mann-lohchab&color=brightgreen&style=for-the-badge&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/Mann-lohchab?style=for-the-badge&color=00D8FF&labelColor=0A192F" />
+ 
   <img src="https://img.shields.io/badge/Focus-Full--Stack--Development-00D8FF?style=for-the-badge" />
 </div>
 
