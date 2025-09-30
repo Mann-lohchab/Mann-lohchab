@@ -32,11 +32,11 @@
 - 🔗 Portfolio → [mann.works](https://mann.works)  
 - 🤝 Open to **internships, collaborations & open-source contributions**
 - 📫 Reach me: **10324210286@stu.srmuniversity.ac.in**
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c2/4e/a6/c24ea69cda5b0e7ff5ac04d9fcab8aab.gif">
+
 ---
 
 ## ⚒️ Tech Stack
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c2/4e/a6/c24ea69cda5b0e7ff5ac04d9fcab8aab.gif">
 ### 🌐 Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,graphql,apollo" />
