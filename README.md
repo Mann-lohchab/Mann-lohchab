@@ -32,10 +32,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Node.js+Expert;GraphQL+Enthusiast;Always+Building+Cool+Stuff" alt="About Me Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/82/52/498252ef8ab1153807a102361b4a70c0.gif">
 
 ### 💻 Current Focus
-
+```
 const mann = {
 role: "CS Student & Full-Stack Developer",
 currentlyWorking: [
@@ -56,7 +56,7 @@ askMeAbout: [
 ],
 funFact: "I debug in dark mode... obviously 🌙"
 };
-
+```
 ### 🎯 What I Do
 - 🌱 **Building** scalable web applications with **React & Node.js**
 - ⚡ **Designing** GraphQL APIs with **Apollo Server**  
