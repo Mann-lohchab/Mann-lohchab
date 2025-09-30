@@ -1,4 +1,9 @@
 <!-- Header -->
+
+<div align="center">
+  <img width="100%" src="https://i.pinimg.com/736x/c8/31/47/c83147559a7bb3c6600f8c4f32787e1d.jpg" alt="Header Image"/>
+</div>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
 </div>
