@@ -65,20 +65,16 @@
   <img src="https://streak-stats.demolab.com?user=Mann-lohchab&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mann-lohchab&bg_color=1a1b27&color=9745f5&line=9745f5&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mann-lohchab&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mann-lohchab&bg_color=1a1b27&color=9745f5&line=9745f5&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
