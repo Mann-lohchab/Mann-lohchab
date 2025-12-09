@@ -35,15 +35,13 @@ Zig • C • Bash • Docker • Git • Linux • VS Code • Postman • Figm
 
 ---
 
-## 📊 GitHub Stats
-
+GitHub Presence
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mann-lohchab&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann-lohchab&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mann-lohchab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=79c0ff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann-lohchab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=58a6ff" />
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mann-lohchab&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mann-lohchab&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=58A6FF&currStreakNum=8B949E&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 ---
