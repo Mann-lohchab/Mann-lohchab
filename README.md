@@ -33,10 +33,15 @@ Node.js • Express • GraphQL • Apollo Server • MongoDB • PostgreSQL •
 **Systems & Languages:**
 Zig • C • Bash • Docker • Git • Linux • VS Code • Postman • Figma
 
----
-GitHub Presence
-<div align="center" style="background: linear-gradient(135deg, #0a3a3a 0%, #0f1419 100%); padding: 40px; border-radius: 12px; border: 1px solid #1a5f5f; margin: 20px 0;">
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-bottom: 30px;">
+--- 
+GitHub
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mann-lohchab&bg_color=0a0e27&color=4dd9d9&line=4dd9d9&point=7effff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</div>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mann-lohchab&show_icons=true&theme=nightowl&hide_border=true&count_private=true&bg_color=0a0e27&title_color=4dd9d9&text_color=7effff&icon_color=4dd9d9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann-lohchab&layout=compact&theme=nightowl&hide_border=true&bg_color=0a0e27&title_color=4dd9d9&text_color=7effff" />
+</div>
 
 ---
 
