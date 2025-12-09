@@ -36,12 +36,16 @@ Zig • C • Bash • Docker • Git • Linux • VS Code • Postman • Figm
 --- 
 GitHub
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mann-lohchab&bg_color=0a0e27&color=4dd9d9&line=4dd9d9&point=7effff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mann-lohchab&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
+
+<br/>
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mann-lohchab&show_icons=true&theme=nightowl&hide_border=true&count_private=true&bg_color=0a0e27&title_color=4dd9d9&text_color=7effff&icon_color=4dd9d9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann-lohchab&layout=compact&theme=nightowl&hide_border=true&bg_color=0a0e27&title_color=4dd9d9&text_color=7effff" />
+  <img src="https://streak-stats.demolab.com?user=Mann-lohchab&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="180" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Mann-lohchab&hide_border=true&theme=github_dark&show_icons=false&bg_color=000000&text_color=ffffff" height="180" />
 </div>
+
 
 ---
 
