@@ -10,7 +10,7 @@
 
 ## 🌊 About Me
 
-I craft scalable web experiences with React and Node.js, diving deep into GraphQL APIs and system-level programming. When I'm not building production systems, I'm experimenting with emerging technologies—currently obsessed with Zig and Svelte for their elegance and performance.
+I craft scalable web experiences with React and Node.js, diving deep into GraphQL APIs and system-level programming. When I'm not building production systems, I'm experimenting with emerging technologies ,currently obsessed with Zig and Svelte for their elegance and performance.
 
 **Currently working on:**
 - Full-stack web applications with React and Node.js
@@ -55,7 +55,11 @@ Check out my [portfolio](https://mann.works) for detailed case studies and live 
 
 <div align="center">
   
-  [**Email**](mailto:10324210286@stu.srmuniversity.ac.in) • [**LinkedIn**](https://linkedin.com/in/yourprofile) • [**Twitter/X**](https://x.com/daylight216203) • [**Portfolio**](https://mann.works)
+  [![Email](https://img.shields.io/badge/Email-000?style=flat&logo=minutemailer&logoColor=white)](mailto:10324210286@stu.srmuniversity.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![X](https://img.shields.io/badge/Twitter%2FX-000?style=flat&logo=x&logoColor=white)](https://x.com/daylight216203)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=safari&logoColor=white)](https://mann.works)
+
   
 </div>
 
