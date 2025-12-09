@@ -34,15 +34,9 @@ Node.js • Express • GraphQL • Apollo Server • MongoDB • PostgreSQL •
 Zig • C • Bash • Docker • Git • Linux • VS Code • Postman • Figma
 
 ---
-
 GitHub Presence
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mann-lohchab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=8b949e&title_color=58a6ff&icon_color=79c0ff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann-lohchab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=58a6ff" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mann-lohchab&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=58A6FF&currStreakNum=8B949E&dates=8B949E" alt="GitHub Streak" />
-</div>
+<div align="center" style="background: linear-gradient(135deg, #0a3a3a 0%, #0f1419 100%); padding: 40px; border-radius: 12px; border: 1px solid #1a5f5f; margin: 20px 0;">
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-bottom: 30px;">
 
 ---
 
