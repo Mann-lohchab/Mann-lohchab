@@ -40,11 +40,11 @@ GitHub
 </div>
 
 <br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mann-lohchab&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="180" />
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Mann-lohchab&hide_border=true&theme=github_dark&show_icons=false&bg_color=000000&text_color=ffffff" height="180" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mann-lohchab&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mann-lohchab&theme=github_dark&utcOffset=8" />
 </div>
+
 
 
 ---
